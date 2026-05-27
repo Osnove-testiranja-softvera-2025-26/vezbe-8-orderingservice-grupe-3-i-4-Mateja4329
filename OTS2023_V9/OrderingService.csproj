@@ -53,6 +53,7 @@
     <Compile Include="Services\CalculationService.cs" />
     <Compile Include="Services\CouponService.cs" />
     <Compile Include="Services\CustomerService.cs" />
+    <Compile Include="Services\Fake\FakeCouponService.cs" />
     <Compile Include="Services\Interfaces\ICalculationService.cs" />
     <Compile Include="Services\Interfaces\ICouponService.cs" />
     <Compile Include="Services\Interfaces\ICustomerService.cs" />
